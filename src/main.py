@@ -1,7 +1,7 @@
 '''
-Product:
-Description:
-Author:
+Product:Country search feature
+Description: will display the number of shows that are from the searched country.
+Author: Seasickcake
 '''
 import csv
 
